@@ -4,7 +4,8 @@ tags:
 - react
 - 面试
 categories:
-- react 
+- face 
+- react
 ---
 
 # React.Children.map
